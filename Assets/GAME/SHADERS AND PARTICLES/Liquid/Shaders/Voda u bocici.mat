@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Voda u bocici
+  m_Shader: {fileID: -6465566751694194690, guid: fc413fa3d566c184198f31a85ea1c739, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_0898eeab7667402ab4c610b18bb1af18: 2
+    - Vector1_fc2f0b5f78f04c57b42e8ed5072d3456: -0.1
+    - _Fill: -0.023249986
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _WobbleX: 1
+    - _WobbleZ: 1
+    m_Colors:
+    - Color_507f07ca34b34266ae1c8aa66929bf42: {r: 0.48235294, g: 0.66271865, b: 0.83137256, a: 0.48235294}
+    - Color_79c99dc5e7c84543b787036b4a76c902: {r: 0.29622638, g: 0.4403749, b: 1, a: 0.5529412}
+    - Color_d4fc33724715426798693632ab67f672: {r: 0.3622641, g: 0.38240317, b: 1, a: 0.5372549}
+  m_BuildTextureStacks: []
+--- !u!114 &7588514806449898118
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
